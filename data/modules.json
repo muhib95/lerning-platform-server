@@ -1,0 +1,86 @@
+[
+  {
+    "id":"a",
+    "review":{
+      "videos":8,
+      "ratting":"Excilent"
+    },
+    "cid":2,
+    "title":"English grammar by Kabir Hossain",
+    "card":"Certify your English proficiency with the Duolingo English Test! Finish in under 1 hour and get results in only 2 days. Take your test today! Practice for free. Purchase Online. Get results in 2 days. Over 3,500 institutions.",
+    "photo":"https://kildarefetc.ie/wp-content/uploads/2021/06/download-2021-06-01T162515.614.jpg",
+    "details":"When it comes to English speaking skills, you should not pay too much attention to grammar rules at first. However, this does not mean that we should ignore English grammar completely.Needless to say, basic English grammar rules play an important role in learning English, both written and spoken. Without grammar rules, you can sometimes make yourself understood with short and simple expressions. However, you may fail most of the time with more complicated expressions that require the correct orders or structures of words."
+
+
+  },
+  {
+    "id":"b",
+    "review":{
+      "videos":12,
+      "ratting":"Good"
+    },
+    "cid":1,
+    "title":"Bangla 1st and 2nd Paper",
+    "card":"Bengali personal pronouns are somewhat similar to English pronouns, having different words for first, second, and third person, and also for singular and plural (unlike for verbs, below). Bengali pronouns, unlike their English counterparts, do not differentiate for gender; that is, the same pronoun may be used for he or she. However, Bengali has different third-person pronouns for proximity. The first are used for someone who is nearby, and the second are for those who are a little further away.",
+    "photo":"https://1.bp.blogspot.com/-uqeS4GuRuuM/XiFsPfRlPBI/AAAAAAAAFXo/pcw-JlOPpPo_Hb21q5Cy62KlD3ndwYzdwCLcBGAsYHQ/s1600/Screenshot_20200117_111103.jpg",
+    "details":"Bengali personal pronouns are somewhat similar to English pronouns, having different words for first, second, and third person, and also for singular and plural (unlike for verbs, below). Bengali pronouns, unlike their English counterparts, do not differentiate for gender; that is, the same pronoun may be used for he or she. However, Bengali has different third-person pronouns for proximity. The first are used for someone who is nearby, and the second are for those who are a little further away. The third are usually for those who are not present. In addition, each of the second- and third-person pronouns have different forms for the familiar and polite forms; the second person also has a very familiar form (sometimes called despective). It may be noted that the very familiar form is used when addressing particularly close friends or family as well as for addressing subordinates, or in abusive language. In the following tables, the abbreviations used are as follows: VF=very familiar, F=familiar, and P=polite (honor); H=here, T=there, E=elsewhere (proximity), and I=inanimate.The nominative case is used for pronouns that are the subject of the sentence, such as I already did that or Will you please stop making that noise?"
+
+
+  },
+  {
+    "id":"c",
+    "review":{
+      "videos":18,
+      "ratting":"very Good"
+    },
+    "cid":6,
+    "title":"Important topics from HSC ICT Topics",
+    "card":"Information Communication Technology students gain knowledge and skills needed to effectively apply, use and manage technology when solving problems specifically related to information and communication.",
+    "photo":"https://kildarefetc.ie/wp-content/uploads/2021/06/download-2021-06-01T162515.614.jpg",
+    "details":"Students gain knowledge and skills needed to effectively apply, use and manage technology when solving problems specifically related to information and communication. Classes provide a human and organizational focus on technology—teaching students how to be effective users of technology. Students who major in ICT can expect to work in positions where they are the communication link between people, organizations and the technologies used to support those organizations' information infrastructures."
+
+
+  },
+  {
+    "id":"d",
+    "review":{
+      "videos":15,
+      "ratting":"Excilent"
+    },
+    "cid":3,
+    "title":"Physics Definition, Types, Topics, Importance, & Facts",
+    "card":"Physics is the branch of science that deals with the structure of matter and how the fundamental constituents of the universe interact. It studies objects ranging from the very small using quantum mechanics to the entire universe using general relativity.",
+    "photo":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSt3NpXgcr9WpNi7EqmXjiBSqMY4INuIy13NkocV8FO3wz27wGy72s99WgFd84_hwRB6S8&usqp=CAU",
+    "details":"Physics is the natural science that studies matter, its fundamental constituents, its motion and behavior through space and time, and the related entities of energy and force. Physics is one of the most fundamental scientific disciplines, with its main goal being to understand how the universe behaves."
+
+
+  },
+  {
+    "id":"d",
+    "review":{
+      "videos":25,
+      "ratting":"Excilent"
+    },
+    "cid":5,
+    "title":"Physics Definition, Types, Topics, Importance, & Facts",
+    "card":"Thousands of math problems and questions with solutions and detailed explanations are included. Free math tutorials and problems to help you explore and gain deep understanding of math topics",
+    "photo":"https://i.pinimg.com/736x/51/7e/89/517e890cd1d9606b78ccbdd08f0fdf1d.jpg",
+    "details":"Mathematics includes the study of numbers and quantities. It is a branch of science that deals with logic of shape, quantity, and arrangement. Most of the areas listed below are studied in many different fields of mathematics, including set theory and mathematical logic. The study of number theory usually focuses more on the structure and behavior of the integers rather than on the actual foundations of numbers themselves, and so is not listed in this given subsection."
+
+
+  },
+  {
+    "id":"d",
+    "review":{
+      "videos":23,
+      "ratting":"Excilent"
+    },
+    "cid":4,
+    "title":"Chemistry is the scientific study of the properties and behavior of matter.",
+    "card":"Chemistry is the branch of science that deals with the properties, composition, and structure of elements and compounds, how they can change, and the energy that is released or absorbed when they change.",
+    "photo":"https://img.freepik.com/free-vector/flat-chemistry-colorful-background_23-2148157680.jpg?w=2000",
+    "details":"chemistry, the science that deals with the properties, composition, and structure of substances (defined as elements and compounds), the transformations they undergo, and the energy that is released or absorbed during these processes. Every substance, whether naturally occurring or artificially produced, consists of one or more of the hundred-odd species of atoms that have been identified as elements. Although these atoms, in turn, are composed of more elementary particles, they are the basic building blocks of chemical substances; there is no quantity of oxygen, mercury, or gold, for example, smaller than an atom of that substance. Chemistry, therefore, is concerned not with the subatomic domain but with the properties of atoms and the laws governing their combinations and how the knowledge of these properties can be used to achieve specific purposes."
+
+
+  }
+]
