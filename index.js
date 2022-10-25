@@ -29,6 +29,12 @@ app.get('/modules/:id',(req,res)=>{
   res.send(module)
 
 })
+app.get('/checkout/:id',(req,res)=>{
+  const id=req.params.id;
+  const check=modules.find(m=>m.id==id)
+  res.send(check)
+
+})
 
 app.listen(port, () => {
   console.log(`Example app listening on port ${port}`)
